@@ -22,7 +22,7 @@ We will use the KNN classification method.
   <li>matplotlib</li>
 </ul>
 <p>To download them use the <b>Requirements.txt</b> file</p>
-```
+```sh
 pip install Requirements.txt
 ```
 
